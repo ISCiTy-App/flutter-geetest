@@ -128,7 +128,7 @@ class GeetestPluginHelper {
         // 设置点击灰色区域是否消失，默认不消失
         gt3ConfigBean.setCanceledOnTouchOutside(false);
         // 设置debug模式，开代理可调试 
-        gt3ConfigBean.setDebug(false);
+//        gt3ConfigBean.setDebug(false);
         // 设置语言，如果为null则使用系统默认语言
         gt3ConfigBean.setLang(null);
         // 设置加载webview超时时间，单位毫秒，默认10000，仅且webview加载静态文件超时，不包括之前的http请求
@@ -140,9 +140,15 @@ class GeetestPluginHelper {
             /**
              * api1结果回调
              */
+//            @Override
+//            public void onApi1Result(String result) {
+//                LogUtil.log("GT3BaseListener-->onApi1Result-->"+result);
+//            }
+
+
             @Override
-            public void onApi1Result(String result) {
-                LogUtil.log("GT3BaseListener-->onApi1Result-->"+result);
+            public void onReceiveCaptchaCode(int i) {
+
             }
 
             /**
@@ -173,6 +179,7 @@ class GeetestPluginHelper {
                                 public void run() {
                                     mLoading.dismiss(); mLoading = null;
                                     gt3GeetestUtils.showSuccessDialog();
+//                                    logMessage(api2Result);
                                     resultCallback.success(successString(api2Result));
                                 }
                             });
@@ -180,6 +187,7 @@ class GeetestPluginHelper {
                     }).start();
                 } else {
                     gt3GeetestUtils.showSuccessDialog();
+//                    logMessage(successString(result));
                     resultCallback.success(successString(result));
                 }
             }
@@ -187,10 +195,10 @@ class GeetestPluginHelper {
             /**
              * api2回调
              */
-            @Override
-            public void onApi2Result(String result) {
-                LogUtil.log("GT3BaseListener-->onApi2Result-->"+result);
-            }
+//            @Override
+//            public void onApi2Result(String result) {
+//                LogUtil.log("GT3BaseListener-->onApi2Result-->"+result);
+//            }
 
             /**
              * 统计信息，参考接入文档
