@@ -16,7 +16,7 @@ A new Flutter plugin.
   s.source_files = 'Classes/**/*'
   s.public_header_files = 'Classes/**/*.h'
 
-  s.dependency 'GT3Captcha'
+  s.dependency 'GT3Captcha-iOS'
   s.dependency 'Flutter'
   s.requires_arc = true
   s.ios.deployment_target = '8.0'

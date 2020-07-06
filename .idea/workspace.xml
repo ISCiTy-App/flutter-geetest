@@ -7,8 +7,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06083510-db5f-46d9-81b1-132d32f1fb40" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/example_lib_main_dart.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_geetest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_geetest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_geetest/example/ios/Podfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_geetest/example/ios/Podfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_geetest/example/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_geetest/example/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_geetest/example/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_geetest/example/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_geetest/example/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_geetest/ios/flutter_geetest.podspec" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_geetest/ios/flutter_geetest.podspec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Podfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Podfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/example/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Classes/JKRGeeManager.m" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Classes/JKRGeeManager.m" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ios/flutter_geetest.podspec" beforeDir="false" afterPath="$PROJECT_DIR$/ios/flutter_geetest.podspec" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -92,6 +102,38 @@
       <screen x="-608" y="-1057" width="2560" height="1057" />
     </state>
     <state x="247" y="-732" key="#com.intellij.ide.util.TreeFileChooserDialog/40.23.1400.877/-608.-1057.2560.1057@-608.-1057.2560.1057" timestamp="1594025226090" />
+    <state width="1238" height="336" key="GridCell.Tab.0.bottom" timestamp="1594025562753">
+      <screen x="-608" y="-1057" width="2560" height="1057" />
+    </state>
+    <state width="1238" height="336" key="GridCell.Tab.0.bottom/40.23.1400.877/-608.-1057.2560.1057@-608.-1057.2560.1057" timestamp="1594025562753" />
+    <state width="1238" height="336" key="GridCell.Tab.0.center" timestamp="1594025562752">
+      <screen x="-608" y="-1057" width="2560" height="1057" />
+    </state>
+    <state width="1238" height="336" key="GridCell.Tab.0.center/40.23.1400.877/-608.-1057.2560.1057@-608.-1057.2560.1057" timestamp="1594025562752" />
+    <state width="1238" height="336" key="GridCell.Tab.0.left" timestamp="1594025562752">
+      <screen x="-608" y="-1057" width="2560" height="1057" />
+    </state>
+    <state width="1238" height="336" key="GridCell.Tab.0.left/40.23.1400.877/-608.-1057.2560.1057@-608.-1057.2560.1057" timestamp="1594025562752" />
+    <state width="1238" height="336" key="GridCell.Tab.0.right" timestamp="1594025562752">
+      <screen x="-608" y="-1057" width="2560" height="1057" />
+    </state>
+    <state width="1238" height="336" key="GridCell.Tab.0.right/40.23.1400.877/-608.-1057.2560.1057@-608.-1057.2560.1057" timestamp="1594025562752" />
+    <state width="1238" height="336" key="GridCell.Tab.1.bottom" timestamp="1594025562656">
+      <screen x="-608" y="-1057" width="2560" height="1057" />
+    </state>
+    <state width="1238" height="336" key="GridCell.Tab.1.bottom/40.23.1400.877/-608.-1057.2560.1057@-608.-1057.2560.1057" timestamp="1594025562656" />
+    <state width="1238" height="336" key="GridCell.Tab.1.center" timestamp="1594025562655">
+      <screen x="-608" y="-1057" width="2560" height="1057" />
+    </state>
+    <state width="1238" height="336" key="GridCell.Tab.1.center/40.23.1400.877/-608.-1057.2560.1057@-608.-1057.2560.1057" timestamp="1594025562655" />
+    <state width="1238" height="336" key="GridCell.Tab.1.left" timestamp="1594025562655">
+      <screen x="-608" y="-1057" width="2560" height="1057" />
+    </state>
+    <state width="1238" height="336" key="GridCell.Tab.1.left/40.23.1400.877/-608.-1057.2560.1057@-608.-1057.2560.1057" timestamp="1594025562655" />
+    <state width="1238" height="336" key="GridCell.Tab.1.right" timestamp="1594025562655">
+      <screen x="-608" y="-1057" width="2560" height="1057" />
+    </state>
+    <state width="1238" height="336" key="GridCell.Tab.1.right/40.23.1400.877/-608.-1057.2560.1057@-608.-1057.2560.1057" timestamp="1594025562655" />
     <state x="11" y="-890" key="SettingsEditor" timestamp="1594025352423">
       <screen x="-608" y="-1057" width="2560" height="1057" />
     </state>
