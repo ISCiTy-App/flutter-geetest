@@ -277,7 +277,7 @@ class GeetestPluginHelper {
     }
 
     private static String requestGet(String urlString) {
-        Request request = new Request.Builder().url(urlString).build();
+        Request request = new Request.Builder().url(urlString + "?t=" + System.currentTimeMillis()).build();
         try {
             Response response = httpClient().newCall(request).execute();
             return response.body().string();
